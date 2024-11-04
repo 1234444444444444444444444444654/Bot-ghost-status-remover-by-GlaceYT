@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Viendo Galicia Roleplay","Viendo Galicia Roleplay"];
+const statusMessages = ["Viendo Robloxia","Viendo Robloxia"];
 
 
 let currentIndex = 0;
